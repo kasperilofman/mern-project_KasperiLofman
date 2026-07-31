@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "Software Development Full-Stack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasperilofman/Full-Stack-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasperilofman/Full-Stack-Project/issues"
+  },
+  "homepage": "https://github.com/kasperilofman/Full-Stack-Project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
